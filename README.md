@@ -11,5 +11,5 @@ Help translate https://fortnitestats.com to other languages.
 
 Aside from the satisfaction of making fortnite stats accessible to more people we offer the following:
 
-1) Contributor rank on our discord
+1) "Special Player" rank on our discord
 2) Translator badge on the website (Similar to the verified badge)
