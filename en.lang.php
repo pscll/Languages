@@ -65,7 +65,8 @@ $lang = array(
   '62' => 'Weapon Stats',
   '63' => 'Verified Players',
   '64' => 'All rights reserved',
-  '65' => 'Find stats for any fortnite battle royale player, browse the leaderboards for PC, Xbox & PSN.'
+  '65' => 'Find stats for any fortnite battle royale player, browse the leaderboards for PC, Xbox & PSN.',
+  '66' => 'Winrate'
 );
 
 
