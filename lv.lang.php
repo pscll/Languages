@@ -65,7 +65,8 @@ $lang = array(
   '62' => 'Ieroču statistika',
   '63' => 'Vertificēti spēlētāji',
   '64' => 'Visas tiesības aizsargātas',
-  '65' => 'Aplūko statistiku un rankingu jebkuram Fortnite Battle Royale spēlētājam priekš PC, Xbox & PSN.'
+  '65' => 'Aplūko statistiku un rankingu jebkuram Fortnite Battle Royale spēlētājam priekš PC, Xbox & PSN.',
+  '66' => 'Winrate'
 );
 
 
